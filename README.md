@@ -1,103 +1,111 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:031018,50:003d4d,100:00c2d1&height=200&section=header&text=AARON%20BASKARADAS&fontSize=38&fontColor=e6fbff&fontAlignY=36&desc=ECE%20%7C%20RF%20%7C%20Radar%20%7C%20FPGA%20%7C%20Space%20Systems&descAlignY=58&descSize=16&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:031018,50:003d4d,100:00c2d1&height=200&section=header&text=AARON%20BASKARADAS&fontSize=38&fontColor=e6fbff&fontAlignY=36&desc=ECE%20%7C%20RF%20%7C%20RADAR%20%7C%20FPGA%20%7C%20SPACE%20SYSTEMS&descAlignY=58&descSize=16&animation=twinkling" alt="Aaron Baskaradas header" />
 </div>
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=Carrier+acquired.+Decoding+the+spectrum.;RF+engineering+%7C+radar+%7C+remote+sensing;FPGA+signal+processing+for+orbit;Building+hardware+that+listens+to+the+sky.)](https://github.com/Aaron-Baskaradas)
 
-<img src="https://img.shields.io/badge/SASTRA-ECE%20'27-00E5FF?style=for-the-badge&labelColor=0d1117" alt="SASTRA ECE" />
-<img src="https://img.shields.io/badge/IEEE-AP--S%20Student%20Chairperson-0066FF?style=for-the-badge&labelColor=0d1117" alt="IEEE AP-S" />
-<img src="https://img.shields.io/badge/Focus-Radar%20%26%20Satcom-7B2CBF?style=for-the-badge&labelColor=0d1117" alt="Focus" />
-<img src="https://komarev.com/ghpvc/?username=Aaron-Baskaradas&style=for-the-badge&color=00E5FF&label=PROFILE+HITS" alt="profile views" />
+![SASTRA ECE](https://img.shields.io/badge/SASTRA-ECE%20%2727-00E5FF?style=for-the-badge&labelColor=0d1117)
+![IEEE AP-S](https://img.shields.io/badge/IEEE-AP--S%20Student%20Chairperson-0066FF?style=for-the-badge&labelColor=0d1117)
+![Focus](https://img.shields.io/badge/Focus-Radar%20%26%20Satcom-7B2CBF?style=for-the-badge&labelColor=0d1117)
+![Profile views](https://komarev.com/ghpvc/?username=Aaron-Baskaradas&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS)
 
 </div>
 
-<br/>
-. * . ✦ . * \ | / ── spectrum locked ── ─────(◆)───── / | \ RF · RADAR · FPGA · SPACE * . * . ✦ .
+<br />
 
-I design things that transmit, receive, and make sense of noisy worlds — from **K-band MIMO antennas** and **GPR radar pipelines** to **FPGA-side ML** for satellite collision avoidance [1].
+> RF engineering, radar signal processing, FPGA systems, and space technology.
 
-Currently an Electronics and Communication Engineering undergrad at **SASTRA Deemed University**, chasing cleaner waveforms, tighter S-parameters, and hardware that could one day fly [1].
+I am an Electronics and Communication Engineering undergraduate at **SASTRA Deemed University**, interested in building systems that transmit, receive, and interpret noisy physical environments. My work spans **microwave and antenna design**, **ground penetrating radar**, **remote sensing**, **embedded systems**, and **FPGA-based machine learning**.
 
----
+I am especially interested in planetary exploration, Earth observation, satellite sensing, and hardware that can eventually operate beyond the lab.
 
-## `>_` now_transmitting
+## Current transmission
 
 ```vhdl
 entity aaron is
   port (
-    role      : out std_logic_vector(1 downto 0) := "11"; -- Student Chairperson, IEEE AP-S SASTRA
-    internship: in  microwave_antenna_tech;               -- IEEE MTT-S / AP-S / EMC-S, Hyderabad
-    club      : inout electronics_club_coordinator;
+    role      : out student_leadership := ieee_ap_s_chairperson;
+    internship: in  microwave_antenna_technology;
+    club      : inout electronics_project_coordination;
     seeking   : in  rf_radar_space_problems
   );
 end entity;
+```
 
-// featured_payloads
-<table> <tr> <td width="50%" valign="top">
-GPR Ringing Noise Suppression
-Comparative study of six signal-processing chains for Ground Penetrating Radar. Two complementary methods were fused into a hybrid pipeline that attenuates ringing while preserving subsurface returns 
-Aaron's Resume.pdf
-.
+## Featured projects
 
-MATLAB DSP Radar Remote Sensing
+### Hybrid Signal Processing for GPR Ringing Noise
 
-</td> <td width="50%" valign="top">
-Satellite Collision Avoidance on FPGA
-A 1D CNN mapped onto a DE1-SoC for real-time collision-risk inference. Pre-trained models meet the metal — on-orbit decisioning, not just a notebook demo.
+Compared six signal-processing methods for reducing ringing noise in Ground Penetrating Radar data. Selected and combined the two strongest complementary methods into a hybrid processing chain designed to suppress ringing while preserving subsurface returns.
 
-FPGA CNN Verilog DE1-SoC Space
+`MATLAB` `DSP` `Radar` `Remote sensing`
 
-</td> </tr> <tr> <td width="50%" valign="top">
-UWB Vivaldi MIMO · K-Band
-Tapered-slot UWB MIMO antenna designed and optimized for high-data-rate inter-satellite links on CubeSat-class platforms.
+### Satellite Collision Avoidance on DE1-SoC
 
-ADS Antennas MIMO K-band CubeSat
+Developed an FPGA-based **1D convolutional neural network** for real-time satellite collision-risk prediction. The project maps pre-trained machine-learning models onto a DE1-SoC platform for hardware-oriented inference.
 
-</td> <td width="50%" valign="top">
-BPSK GPS Transmitter
-End-to-end BPSK GPS signal generation and analysis in Keysight SystemVue — modulation, spectrum, and receiver-side sanity checks.
+`FPGA` `Verilog` `CNN` `DE1-SoC` `Space systems`
 
-SystemVue GPS BPSK Comms
+### UWB Vivaldi MIMO Antenna for K-Band Applications
 
-</td> </tr> </table>
-[S] lab_bench
+Designed and optimized a K-band ultra-wideband MIMO tapered-slot antenna for high-data-rate inter-satellite communication in small-satellite and CubeSat missions.
 
-<b>RF & Microwaves</b>
+`Keysight ADS` `Antennas` `MIMO` `K-band` `CubeSat`
 
-<b>HDL · FPGA · Embedded</b>
+### BPSK GPS Transmitter
 
-<b>EDA · Simulation · Code</b>
+Simulated a BPSK transmitter for GPS signal generation and analysis in Keysight SystemVue, including modulation and spectrum-level validation.
 
-<b>Test & Measurement</b>
-~> signal_path
-RF Design
-Antennas & MIMO
-Satcom / CubeSat links
-DSP
-Radar & GPR
-Remote Sensing
-HDL
-FPGA ML
-On-orbit autonomy
-Planetary & Earthobservation
+`SystemVue` `GPS` `BPSK` `Digital communications`
 
+## Experience
 
+- **Student Chairperson**, IEEE AP-S Student Branch, SASTRA | July 2026 - Present
+- **Intern**, IEEE Winter Internship on Microwave and Antenna Technologies, IEEE MTT-S/AP-S/EMC-S Joint Chapter, IEEE Hyderabad Section | January 2026 - July 2026
+- **Project Coordinator**, The Electronics Club, SASTRA | December 2025 - Present
+  - Host electronics workshops and guide junior students through project development.
+- **Student Volunteer**, RFCoN 2025, SASTRA University
+- **Student Council President**, Yagappa International School | 2022 - 2023
 
-++ ground_stations
-<div align="center"> <a href="https://github.com/Aaron-Baskaradas"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Aaron-Baskaradas&show_icons=true&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9&bg_color=0d1117&count_private=true" alt="stats" /> </a> <a href="https://github.com/Aaron-Baskaradas"> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-Baskaradas&layout=compact&hide_border=true&title_color=00E5FF&text_color=c9d1d9&bg_color=0d1117" alt="languages" /> </a> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaron-Baskaradas&theme=dark&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&background=0d1117" alt="streak" /> </div>
-TX handshake
+## Technical toolkit
+
+| Area | Tools and technologies |
+| --- | --- |
+| RF design | Filters, power dividers, antennas |
+| Embedded systems | Arduino UNO, STM32, ESP32, Terasic DE10-Lite |
+| EDA and simulation | Keysight ADS, Keysight EMPro, Keysight SystemVue, MATLAB, NI Multisim, LTspice, CopperCAM, GNU Radio, Gazebo, Altium Designer, KiCad, Intel Quartus |
+| Programming and HDL | C, C++, Python, Verilog, SystemVerilog |
+| Test and measurement | Digital oscilloscopes, arbitrary waveform generators, vector signal generators, microwave signal analyzers, network analyzers, spectrum analyzers |
+
+## Certifications
+
+- MATLAB Signal Processing Onramp, July 2025
+- First Certificate in English, University of Cambridge
+- SASTRA-MHI Drone Operation Course, 2025
+- Workshop on EMI and EMC, Tekiknow, RFCoN 2025
+- Workshop on Metamaterials, IITT-NIF, SASTRA Deemed University
+
+## Languages
+
+English and Tamil: Native or bilingual proficiency  
+Italian: Professional proficiency  
+French: Basic proficiency
+
+## Connect
+
 <div align="center">
 
+[![GitHub](https://img.shields.io/badge/GitHub-Aaron--Baskaradas-181717?style=for-the-badge&logo=github)](https://github.com/Aaron-Baskaradas)
+[![Email](https://img.shields.io/badge/Email-aaronbaskaradas%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaronbaskaradas@gmail.com)
 
+<br />
 
+"The universe is already broadcasting. I am just building better receivers."
 
+</div>
 
-
-EN native · TA native · IT professional · FR basic
-
-
-"The universe is already broadcasting. I'm just building better receivers."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c2d1,50:003d4d,100:031018&height=120&section=footer" alt="footer" /> </div> ```
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c2d1,50:003d4d,100:031018&height=120&section=footer" alt="footer" />
+</div>
