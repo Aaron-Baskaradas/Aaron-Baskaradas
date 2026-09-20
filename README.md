@@ -49,11 +49,11 @@ end entity;
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Aaron--Baskaradas-181717?style=for-the-badge&logo=github)](https://github.com/Aaron-Baskaradas)
-[![Email](https://img.shields.io/badge/Email-aaronbaskaradas%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaronbaskaradas@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aaron-Baskaradas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-baskaradas/)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aaronbaskaradas@gmail.com)
 
 <br />
-
 </div>
 
 <div align="center">
