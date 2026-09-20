@@ -36,32 +36,6 @@ entity aaron is
   );
 end entity;
 ```
-
-## Featured projects
-
-### Hybrid Signal Processing for GPR Ringing Noise
-
-Compared six signal-processing methods for reducing ringing noise in Ground Penetrating Radar data. Selected and combined the two strongest complementary methods into a hybrid processing chain designed to suppress ringing while preserving subsurface returns.
-
-`MATLAB` `DSP` `Radar` `Remote sensing`
-
-### Satellite Collision Avoidance on DE1-SoC
-
-Developed an FPGA-based **1D convolutional neural network** for real-time satellite collision-risk prediction. The project maps pre-trained machine-learning models onto a DE1-SoC platform for hardware-oriented inference.
-
-`FPGA` `Verilog` `CNN` `DE1-SoC` `Space systems`
-
-### UWB Vivaldi MIMO Antenna for K-Band Applications
-
-Designed and optimized a K-band ultra-wideband MIMO tapered-slot antenna for high-data-rate inter-satellite communication in small-satellite and CubeSat missions.
-
-`Keysight ADS` `Antennas` `MIMO` `K-band` `CubeSat`
-
-### BPSK GPS Transmitter
-
-Simulated a BPSK transmitter for GPS signal generation and analysis in Keysight SystemVue, including modulation and spectrum-level validation.
-
-`SystemVue` `GPS` `BPSK` `Digital communications`
 ## Technical toolkit
 
 | Area | Tools and technologies |
@@ -69,7 +43,6 @@ Simulated a BPSK transmitter for GPS signal generation and analysis in Keysight 
 | RF design | Filters, power dividers, antennas |
 | Embedded systems | Arduino UNO, STM32, ESP32, Terasic DE10-Lite |
 | EDA and simulation | Keysight ADS, Keysight EMPro, Keysight SystemVue, MATLAB, NI Multisim, LTspice, CopperCAM, GNU Radio, Gazebo, Altium Designer, KiCad, Intel Quartus |
-| Programming and HDL | C, C++, Python, Verilog, SystemVerilog |
 | Test and measurement | Digital oscilloscopes, arbitrary waveform generators, vector signal generators, microwave signal analyzers, network analyzers, spectrum analyzers |
 
 ## Connect
