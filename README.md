@@ -61,16 +61,6 @@ Designed and optimized a K-band ultra-wideband MIMO tapered-slot antenna for hig
 Simulated a BPSK transmitter for GPS signal generation and analysis in Keysight SystemVue, including modulation and spectrum-level validation.
 
 `SystemVue` `GPS` `BPSK` `Digital communications`
-
-## Experience
-
-- **Student Chairperson**, IEEE AP-S Student Branch, SASTRA | July 2026 - Present
-- **Intern**, IEEE Winter Internship on Microwave and Antenna Technologies, IEEE MTT-S/AP-S/EMC-S Joint Chapter, IEEE Hyderabad Section | January 2026 - July 2026
-- **Project Coordinator**, The Electronics Club, SASTRA | December 2025 - Present
-  - Host electronics workshops and guide junior students through project development.
-- **Student Volunteer**, RFCoN 2025, SASTRA University
-- **Student Council President**, Yagappa International School | 2022 - 2023
-
 ## Technical toolkit
 
 | Area | Tools and technologies |
@@ -80,20 +70,6 @@ Simulated a BPSK transmitter for GPS signal generation and analysis in Keysight 
 | EDA and simulation | Keysight ADS, Keysight EMPro, Keysight SystemVue, MATLAB, NI Multisim, LTspice, CopperCAM, GNU Radio, Gazebo, Altium Designer, KiCad, Intel Quartus |
 | Programming and HDL | C, C++, Python, Verilog, SystemVerilog |
 | Test and measurement | Digital oscilloscopes, arbitrary waveform generators, vector signal generators, microwave signal analyzers, network analyzers, spectrum analyzers |
-
-## Certifications
-
-- MATLAB Signal Processing Onramp, July 2025
-- First Certificate in English, University of Cambridge
-- SASTRA-MHI Drone Operation Course, 2025
-- Workshop on EMI and EMC, Tekiknow, RFCoN 2025
-- Workshop on Metamaterials, IITT-NIF, SASTRA Deemed University
-
-## Languages
-
-English and Tamil: Native or bilingual proficiency  
-Italian: Professional proficiency  
-French: Basic proficiency
 
 ## Connect
 
