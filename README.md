@@ -76,8 +76,6 @@ Simulated a BPSK transmitter for GPS signal generation and analysis in Keysight 
 
 <div align="center">
 
-"The universe is already broadcasting. I am just building better receivers."
-
 [![GitHub](https://img.shields.io/badge/GitHub-Aaron--Baskaradas-181717?style=for-the-badge&logo=github)](https://github.com/Aaron-Baskaradas)
 [![Email](https://img.shields.io/badge/Email-aaronbaskaradas%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaronbaskaradas@gmail.com)
 
