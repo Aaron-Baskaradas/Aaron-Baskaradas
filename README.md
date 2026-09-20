@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=Carrier+acquired.+Decoding+the+spectrum.;RF+engineering+%7C+radar+%7C+remote+sensing;FPGA+signal+processing+for+orbit;Building+hardware+that+listens+to+the+sky.)](https://github.com/Aaron-Baskaradas)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=Carrier+acquired.+Decoding+the+spectrum.;RF+engineering+%7C+RADAR+%7C+remote+sensing;FPGA+signal+processing+for+Collision+Avoidance;Building+hardware+that+listens+to+the+sky.)](https://github.com/Aaron-Baskaradas)
 
 ![SASTRA ECE](https://img.shields.io/badge/SASTRA-ECE%20%2727-00E5FF?style=for-the-badge&labelColor=0d1117)
 ![IEEE AP-S](https://img.shields.io/badge/IEEE-AP--S%20Student%20Chairperson-0066FF?style=for-the-badge&labelColor=0d1117)
