@@ -26,10 +26,12 @@ I am especially interested in planetary exploration, Earth observation, satellit
 ```vhdl
 entity aaron is
   port (
-    role      : out student_leadership := ieee_ap_s_chairperson;
-    internship: in  microwave_antenna_technology;
-    club      : inout electronics_project_coordination;
-    seeking   : in  rf_radar_space_problems
+    role      : Final Year ECE Student;
+    focus     : in  RF_System_Design;
+    Positions    : IEEE_APS-Student_Chairperson,
+                   The_Electronics_Club_SASTRA-Project_Coordinator;
+                   SASTRA-Keysight_RFCoE-Undergraduate_Student_Researcher
+    exploring : RF_and_Space_Technology
   );
 end entity;
 ```
